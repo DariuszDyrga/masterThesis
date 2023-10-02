@@ -70,10 +70,6 @@ class Coronary:
         random_shuffle(train)
         train_xs, train_ys = list(zip(*train))
 
-        print(len(test_x))
-        print(len(valid_x))
-        print(len(train_xs))
-
         test_tensor_x = torch.Tensor(test_x)
         test_tensor_y = torch.Tensor(test_y)
 

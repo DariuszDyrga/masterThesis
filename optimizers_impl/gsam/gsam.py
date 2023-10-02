@@ -1,3 +1,5 @@
+#source: https://github.com/juntang-zhuang/GSAM 
+
 import torch
 from .util import enable_running_stats, disable_running_stats
 import contextlib

@@ -1,3 +1,5 @@
+#source: https://github.com/davda54/sam/blob/main/example/utility/log.py
+
 import time
 
 
